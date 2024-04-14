@@ -1,4 +1,3 @@
-# Predicting-Movie-Rental-Durations
 # Predicción de Alquiler de DVD - Proyecto DataCamp
 
 ## Visión General
